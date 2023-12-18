@@ -12,40 +12,34 @@
 <body style="border: 1px solid black;">
     <!-- main logo / nav -->
     <header>
-      <h1> Nicholas Ncube</h1>
-      <nav>
-        <ul>
-          <a href="#about-me">
-            <li>
-              About Me
-            </li>
-          </a>
-          <a href="#my-work">
-            <li>
-              Work
-            </li>
-          </a>
-          <a href="#contact">
-            <li>
-              Contact Me
-            </li>
-          </a>
-          <a href="#resume">
-            <li>
-              Resume
-            </li>
-          </a>
-        </ul>
-      </nav>
-    </header>
 
- <!-- hero banner -->
- <section class="page-banner" style="border: 1px solid black;">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container">
+          <a class="navbar-brand" href="#">Nicholas Ncube</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ml-auto">
+                  <li class="nav-item"><a class="nav-link" href="#about-me">Home</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#about-me">About Me</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#work">Work</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#contact">Contact Me</a></li>
+              </ul>
+          </div>
+      </div>
+  </nav>
+</header>
+
+<!-- Hero Section -->
+<div id="hero" class="jumbotron">
+  <h1>Nicholas Ncube</h1>
+  <p>Front-End Developer</p>
   <img src="Assets/images/IMG_2496.jpg" alt="profile-picture" class="picture">
-  <div>
-    <h2> Student In Front-End Developer</h2>
-  </div>
-</section>
+
+</div>
+
 
 <!-- about me -->
 <section id="about-me" class="about">
@@ -61,7 +55,7 @@
 </section>
 
 <!-- portfolio container -->
-<section id="my-work" class="work">
+<section id="work" class="work">
   <div class="flex-row">
     <h3 class="selection-title">Work Projects</h3>
 
@@ -106,6 +100,40 @@
     </div>
 </section>
 
+<!--skills-->
+
+<section id="skills" class="skills">                                                                                                                                                                                                                                                                   
+  <div class="flex-row">
+    <h3 class="selection-title"> Skills and Qualifications </h3>
+  </div>
+  <div class="container">
+    <div class="image">
+    <ul>
+      <li>
+        <a href="#skill1">CSS</a>
+        <img src="Assets/images/03-portfolio-css-logo.png" class="gallery__img" alt="css-logo-image">
+      </li>
+      <li>
+        <a href="#skill2">HTML</a>
+        <img src="Assets/images/03-portfolio-HTML-logo.png" class="gallery__img" alt="html-logo-image">
+      </li>
+      <li>
+        <a href="#skill3">Github Pages</a>
+        <img src="Assets/images/03-portfolio-github-logo.png" class="gallery__img" alt="github-logo-image">
+        
+      </li>
+      <li>
+        <a href="#skill4">Javascript </a>
+        <img src="Assets/images/03-portfolio-Javascript-logo.png" class="gallery__img" alt="Javascript-logo-image">
+        
+      </li>
+      <li>
+        <a href="#skill5 ">Bootstrap</a>
+        <img src="Assets/images/03-portfolio-bootstrap-logo.jpg" class="gallery__img" alt="bootstrap-logo-image">
+      </li>
+    </ul>
+  </div>
+</section>
 
 <!-- contact -->
 <section id="contact" class="contact">
