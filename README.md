@@ -1,160 +1,59 @@
-# Bootstrap-Portfolio
-
-# Unit 3 Challenge: Code Bootstrap Portfolio
-
-## Overview
-
-In this assignment, you'll be building your portfolio layout using the Bootstrap CSS Framework.
-
-## Before You Begin
-
-* You've learned a ton of material: HTML, CSS, GitHub, GitHub Pages, and Bootstrap. If you feel like you're falling behind, there's no need to panic. You'll have plenty of time to digest and master this material.
-
-* We're diving into JavaScript next unit, and HTML/CSS will start receiving less focus. Still, you'll find that a basic knowledge of HTML/CSS will help you understand JavaScript, especially when we use it to manipulate web pages.
-
-## Commits
-
-* Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-
-* Committing often is a signal to employers that you are actively working on your code and learning.
-
-  * We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
-
-  * Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-
-* Be clear and descriptive in your commit messaging.
-
-  * When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
-
-## Instructions
-
-1. Create a new GitHub repositories and name it `Bootstrap-Portfolio`.
-
-2. Clone this repository to your computer.
-
-3. Inside your `Bootstrap-Portfolio` repo, create the folder structure for the webpage.
-   
-   - Create a folder structure.
-
-     - Create a `index.html`.
-
-     - Create a `css` folder.
-
-       - Inside create a `style.css` file.
-
-   - Create an `images` folder.
-
-       - Place all your images in this folder.
-
-4. Using Bootstrap, recreate your portfolio site with the following items:
-
-   The website should include the following bootstrap components:
-
-    - A Navigation bar
-    
-    - A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML.
-
-      - Include links that are applicable to your portfolio.
-  
-        - Links should navigate to the appropriate sections 
-
-    - A hero section
-
-        - A jumbotron featuring your picture, your name, and any other information you'd like to include.
-
-    - A work section
-
-      - A section displaying your work in grid. 
-
-        - If you need to use placeholder image use: https://placehold.co/ 
-
-      - Use bootstrap cards for each project.
-
-        - The description should give a brief overview of the work.
-
-      - Each project will eventually link to your class project work!
-
-    - A skills section
-
-      - List out the skills you expect to learn from the bootcamp.
-
-    - An about / contact section.
-
-      - An "About Me" section in the same row.
-    
-    - A footer section.
-
-      - All hyperlinks should have a hover effect.
-
-      - All buttons should display a box shadow upon hover.
-
-5. Your Bootstrap solution should minimize use of media queries.
-
-6. Deploy your new Bootstrap-powered portfolio to GitHub Pages.
-
-## Helpful Resources
-
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
-- [Responsive Web Design - How to Create Media Queries](https://www.youtube.com/watch?v=5xzaGSYd7jM)
-
-- [Media Queries 101 by CSS Tricks](https://css-tricks.com/css-media-queries/)
-
-- [Media Query Documentation](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-
-- [Github Pages Guide](https://pages.github.com/)
-
-  - Choose "Project Site" and "Start from Scratch" to get correct instructions.
-
-
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the functionality of their previous portfolio.
-
-### Repository Quality: 12%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit ALL THREE of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
-* The URL of your previously deployed portfolio.
-
----
-
-## Copyright
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+                                                                                         Nicholas Ncube's Portfolio																								
+																								
+Welcome to my portfolio! I'm Nicholas Ncube, a dedicated Front-End Developer (currently enchacing my suject knowledge) passionate about creating engaging web experiences. This project serves as a showcase for my skills and projects, featuring a clean and responsive design built with the Bootstrap CSS Framework.																								
+																								
+-Navigation																								
+																								
+Explore different sections of my portfolio:																								
+																								
+- Home: Overview of my portfolio																								
+- About Me:Learn more about me																								
+- Work: Dive into my projects																								
+- Skills: Explore my qualifications																								
+- Contact Me: Connect with me																								
+																								
+Hero Section:																								
+																								
+Profile Picture-: Nicholas Ncube (Assets/images/IMG_2496.jpg)																								
+																								
+I'm Nicholas Ncube, a tech student currently focusing in varied topics within the Front-End Development sector. Please, take a closer look at my work and skills.																								
+																								
+~ Work Section																								
+																								
+- Discover some of my highlighted projects. Each project includes a brief overview and a link to view it in action.																								
+																								
+~ Skills Section																								
+																								
+- Uncover the skills I've honed through my coding journey. From CSS and HTML to GitHub Pages and JavaScript, I bring a diverse skill set to the table.																								
+																								
+~ About Me Section																								
+																								
+- Get to know me better. I believe in the transformative power of coding and the limitless possibilities it offers.																								
+																								
+~ Contact Me Section																								
+																								
+Feel free to reach out to me:																								
+																								
+- Email:nick@email.com																								
+- Phone:079-2223214																								
+- Instagram:** nick.instram (https://www.instagram.com/nick.instram/)																								
+- LinkedIn: nick.Linkedin (https://www.linkedin.com/in/nick-linkedin/)																								
+- X: nick.X (..)																								
+																								
+**Responsive Design**																								
+																								
+- This portfolio is designed to be responsive across devices, ensuring a seamless experience for all users.																								
+																								
+~License																								
+																								
+-This project is licensed under the MIT License. Feel free to explore and get inspired!																								
+																								
+																								
+Feel free to use this README as a starting point and customise it further if needed.	
+
+Thank you,
+
+Nick.
+
+Github payges deployment: URL;- 
+Repository: URL; -																	
