@@ -53,7 +53,7 @@ Feel free to use this README as a starting point and customise it further if nee
 
 Thank you,
 
-Nick.
+Nick...
 
 Github payges deployment: URL;- 
-Repository: URL; -																	
+Repository: URL; -	https://github.com/Nickncb96/Bootstrap-Portfolio.git
