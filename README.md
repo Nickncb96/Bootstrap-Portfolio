@@ -55,5 +55,5 @@ Thank you,
 
 Nick...
 
-Github payges deployment: URL;- 
+Github payges deployment: URL;- https://nickncb96.github.io/Bootstrap-Portfolio/
 Repository: URL; -	https://github.com/Nickncb96/Bootstrap-Portfolio.git
